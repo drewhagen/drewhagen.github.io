@@ -13,6 +13,7 @@ body {
   margin: 0 auto;
   margin-left: 3px;
   padding: 0;
+  overflow-y: scroll;
   /*  .navbar {
       border: solid black 1px;
       background-color: #3498db;
